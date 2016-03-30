@@ -1,0 +1,36 @@
+.jumbotron{
+    background-color:  #3e8f3e;
+    color: white;
+}
+
+.container{
+}
+
+.navbar{
+    background-color:#0f0f0f;
+    color: #3e8f3e;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+form{
+  display: table;
+  text-align: center;
+  margin: auto;
+}
+
+.form-control{
+  margin-top: 20px;
+    text-align: center;
+}
+
+.btn-primary{
+  margin-top: 30px;
+}
